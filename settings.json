@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LODRIMSMP.aternos.me:17646",
+    "ip": "LODRIMSMP.aternos.me",
     "port": 17646,
     "version": 1.21,
     "try-creative": false
