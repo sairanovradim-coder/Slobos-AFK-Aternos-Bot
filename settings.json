@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "LODRIMSMP.aternos.me:17646",
+    "port": 17646,
     "version": "",
     "try-creative": false
   },
